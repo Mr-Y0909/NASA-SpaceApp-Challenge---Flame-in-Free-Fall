@@ -1,1 +1,1 @@
-# NASA-SpaceApp-Challnge---Flame-in-Free-Fall
+# NASA-SpaceApp-Challenge---Flame-in-Free-Fall
